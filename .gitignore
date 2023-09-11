@@ -1,0 +1,15 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+
+Figures/*.pdf
+Figures/*.eps
+
+Figures/Animal_plots/*.pdf
+Figures/Animal_plots/*.eps
+
+Figures/Extra_CD8_depletion_figs/*.pdf
+Figures/Extra_CD8_depletion_figs/*.eps
+
+.DS_store

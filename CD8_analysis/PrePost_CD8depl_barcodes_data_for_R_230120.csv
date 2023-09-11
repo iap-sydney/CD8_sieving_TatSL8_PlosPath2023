@@ -1,0 +1,195 @@
+Animal,ATI2 timing,Barcode ID,Pre vs Post,Last Detection,WT frac at Last Det
+13D064,necropsy,2038,Pre,Late ATI-1,0.173551982614686
+13D064,necropsy,591,Pre,Late ATI-1,0.119764757754954
+13D064,necropsy,184,Pre,Late ATI-1,0.37820560678211
+13D064,necropsy,657,Pre,Primary,0.779626087385601
+13D064,necropsy,7202,Pre,Primary,0.881666903712132
+13D064,necropsy,23,Pre,Primary,0.835155275805155
+13D064,necropsy,6218,Pre,Never,NaN
+14_10,necropsy,3349,Pre,Late ATI-1,0.0292739483728782
+14_10,necropsy,1771,Pre,Late ATI-1,0.0517020652996158
+14C207,no post CD8depl seq,1088,Pre,Late ATI-1,0.265274098348673
+14C207,no post CD8depl seq,120,Pre,Late ATI-1,0.734469197781228
+14C207,no post CD8depl seq,3482,Pre,Late ATI-1,0.607018939557773
+14C207,no post CD8depl seq,64,Pre,Early ATI-1,0.770792171481827
+9_047,React post CD8depl,90,Post,Early ATI-1,0.808214765148119
+9_047,React post CD8depl,2690,Post,Early ATI-1,0.877754089022703
+9_047,React post CD8depl,210,Post,Early ATI-1,0.819696030964645
+9_047,React post CD8depl,2917,Post,Primary,0.733333333333333
+9_047,React post CD8depl,6659,Post,Early ATI-1,0.877754089022703
+9_047,React post CD8depl,8948,Post,Primary,0.6
+9_047,React post CD8depl,36,Post,Early ATI-1,0.877754089022703
+9_047,React post CD8depl,419,Post,Primary,0.884295778523859
+9_047,React post CD8depl,1527,Post,Early ATI-1,0.80677727946543
+9_047,React post CD8depl,683,Post,Early ATI-1,0
+9_047,React post CD8depl,2611,Post,Never,NaN
+REe16,necropsy,212,Pre,Late ATI-1,0
+REe16,necropsy,4840,Pre,Late ATI-1,0.173553719008264
+REe16,necropsy,620,Pre,Late ATI-1,0
+REe16,necropsy,1021,Pre,Late ATI-1,0.0400721091153586
+REe16,necropsy,4078,Pre,Late ATI-1,0.0647820193407193
+REe16,necropsy,4111,Pre,Primary,0.705510958813645
+REe16,necropsy,8369,Pre,Early ATI-1,0.829116016432647
+REe16,necropsy,1060,Pre,Late ATI-1,0.336376703726101
+REe16,necropsy,1425,Pre,Primary,0.802449734323849
+REe16,necropsy,6170,Pre,Late ATI-1,0.0399680399261332
+REe16,necropsy,823,Pre,Late ATI-1,0.0490196078431373
+RFb16,No seq pre CD8depl; 30 days since VL det,754,Post,Late ATI-1,0.6
+RFb16,No seq pre CD8depl; 30 days since VL det,917,Post,Late ATI-1,0.271942329402441
+RFb16,No seq pre CD8depl; 30 days since VL det,3185,Post,Late ATI-1,0.136873432359689
+RFb16,No seq pre CD8depl; 30 days since VL det,184,Post,Late ATI-1,0.465565135697242
+RFb16,No seq pre CD8depl; 30 days since VL det,247,Post,Late ATI-1,0.166666666666667
+RFb16,No seq pre CD8depl; 30 days since VL det,683,Post,Late ATI-1,0.135957048393027
+RFb16,No seq pre CD8depl; 30 days since VL det,2558,Post,Primary,0.333333333333333
+RJy13,necropsy,1952,Pre,Late ATI-1,0.0189558096616649
+RJy13,necropsy,17,Pre,Late ATI-1,0
+RJy13,necropsy,683,Pre,Late ATI-1,0.00637133240095417
+RJy13,necropsy,2452,Pre,Late ATI-1,0.00511981034095855
+RJy13,necropsy,233,Pre,Early ATI-1,0.492170095322925
+RJy13,necropsy,1001,Pre,Primary,0.857142857142857
+RLm14,React pre CD8depl; Seq pre and post,419,Pre,Late ATI-1,0.00352916135074421
+RLm14,React pre CD8depl; Seq pre and post,4102,Pre,Late ATI-1,0
+RLm14,React pre CD8depl; Seq pre and post,390,Pre,Early ATI-1,0.0981476254020393
+RLm14,React pre CD8depl; Seq pre and post,90,Pre,Late ATI-1,0
+RLm14,React pre CD8depl; Seq pre and post,541,Pre,Primary,0.8
+RLm14,React pre CD8depl; Seq pre and post,3524,Pre,Never,NaN
+RLm14,React pre CD8depl; Seq pre and post,2332,Post,Late ATI-1,0
+RLm14,React pre CD8depl; Seq pre and post,615,Post,Primary,0.787664688682491
+RLm14,React pre CD8depl; Seq pre and post,619,Post,Early ATI-1,0
+RLm14,React pre CD8depl; Seq pre and post,866,Post,Late ATI-1,0
+RLm14,React pre CD8depl; Seq pre and post,2601,Post,Primary,0.84141468868249
+RLm14,React pre CD8depl; Seq pre and post,1443,Post,Primary,0.732346365701124
+RLm14,React pre CD8depl; Seq pre and post,469,Post,Primary,0.770303577571379
+RLm14,React pre CD8depl; Seq pre and post,171,Post,Late ATI-1,0
+RLm14,React pre CD8depl; Seq pre and post,607,Post,Early ATI-1,0
+RLm14,React pre CD8depl; Seq pre and post,1099,Post,Primary,0.881414688682491
+RLm14,React pre CD8depl; Seq pre and post,309,Post,Early ATI-1,0.111111111111111
+RLm14,React pre CD8depl; Seq pre and post,4845,Post,Primary,0.636363636363636
+RLm14,React pre CD8depl; Seq pre and post,2180,Post,Primary,0.881414688682491
+RLm14,React pre CD8depl; Seq pre and post,175,Post,Primary,0.881414688682491
+RLm14,React pre CD8depl; Seq pre and post,1125,Post,Primary,0.866666666666667
+RLm14,React pre CD8depl; Seq pre and post,683,Post,Never,NaN
+RMf16,React pre CD8depl; Seq pre and post,864,Pre,Late ATI-1,0.00775193798449612
+RMf16,React pre CD8depl; Seq pre and post,4086,Pre,Late ATI-1,0.0440528634361234
+RMf16,React pre CD8depl; Seq pre and post,6701,Pre,Late ATI-1,0.0347610215269735
+RMf16,React pre CD8depl; Seq pre and post,3339,Pre,Late ATI-1,0
+RMf16,React pre CD8depl; Seq pre and post,475,Pre,Late ATI-1,0.0612244897959184
+RMf16,React pre CD8depl; Seq pre and post,2852,Pre,Late ATI-1,0.0407372433952494
+RMf16,React pre CD8depl; Seq pre and post,546,Pre,Primary,0.795372500684744
+RMf16,React pre CD8depl; Seq pre and post,1060,Pre,Late ATI-1,0
+RMf16,React pre CD8depl; Seq pre and post,3649,Pre,Primary,0.857142857142857
+RMf16,React pre CD8depl; Seq pre and post,120,Pre,Late ATI-1,0
+RMf16,React pre CD8depl; Seq pre and post,7,Pre,Primary,0.798705834018077
+RMf16,React pre CD8depl; Seq pre and post,1465,Pre,Early ATI-1,0.841695934097819
+RMf16,React pre CD8depl; Seq pre and post,2428,Pre,Late ATI-1,0.0245398773006135
+RMf16,React pre CD8depl; Seq pre and post,2858,Pre,Primary,0.791749312278947
+RMf16,React pre CD8depl; Seq pre and post,195,Pre,Late ATI-1,0.0235250892384096
+RMf16,React pre CD8depl; Seq pre and post,2055,Pre,Primary,0.878705834018077
+RMf16,React pre CD8depl; Seq pre and post,6148,Pre,Late ATI-1,0
+RMf16,React pre CD8depl; Seq pre and post,8010,Pre,Primary,0.5
+RMf16,React pre CD8depl; Seq pre and post,1581,Pre,Late ATI-1,0.0535714285714286
+RMf16,React pre CD8depl; Seq pre and post,2032,Pre,Late ATI-1,0.0239520958083832
+RMf16,React pre CD8depl; Seq pre and post,47,Pre,Late ATI-1,0.0271159377046044
+RMf16,React pre CD8depl; Seq pre and post,1375,Pre,Late ATI-1,0
+RMf16,React pre CD8depl; Seq pre and post,925,Pre,Primary,0.333333333333333
+RMf16,React pre CD8depl; Seq pre and post,9048,Pre,Late ATI-1,0
+RMf16,React pre CD8depl; Seq pre and post,2551,Pre,Primary,0.777777777777778
+RMf16,React pre CD8depl; Seq pre and post,814,Pre,Primary,0.872121997874602
+RMf16,React pre CD8depl; Seq pre and post,2356,Pre,Late ATI-1,0.03125
+RMf16,React pre CD8depl; Seq pre and post,108,Pre,Late ATI-1,0
+RMf16,React pre CD8depl; Seq pre and post,3740,Pre,Late ATI-1,0.00490196078431373
+RMf16,React pre CD8depl; Seq pre and post,4626,Pre,Late ATI-1,0.0395061728395062
+RMf16,React pre CD8depl; Seq pre and post,492,Pre,Late ATI-1,0
+RMf16,React pre CD8depl; Seq pre and post,3524,Pre,Never,NaN
+RMf16,React pre CD8depl; Seq pre and post,419,Post,Primary,0.333333333333333
+RMf16,React pre CD8depl; Seq pre and post,90,Post,Never,NaN
+RNd15,React pre CD8depl; Seq pre and post,3347,Pre,Primary,0.779416412632014
+RNd15,React pre CD8depl; Seq pre and post,419,Pre,Never,NaN
+RNd15,React pre CD8depl; Seq pre and post,1413,Post,Primary,0.687351238934418
+RNd15,React pre CD8depl; Seq pre and post,1429,Post,Primary,0.697557389482405
+RNd15,React pre CD8depl; Seq pre and post,259,Post,Primary,0.709873194946934
+RNd15,React pre CD8depl; Seq pre and post,1952,Post,Primary,0.69514181423844
+RNd15,React pre CD8depl; Seq pre and post,1501,Post,Primary,0.697781654421089
+RNd15,React pre CD8depl; Seq pre and post,4607,Post,Primary,0.733105622024328
+RNd15,React pre CD8depl; Seq pre and post,95,Post,Primary,0.723466585927938
+RNd15,React pre CD8depl; Seq pre and post,1688,Post,Primary,0.732811387881851
+RNd15,React pre CD8depl; Seq pre and post,3302,Post,Primary,0.612850147571774
+RNd15,React pre CD8depl; Seq pre and post,230,Post,Primary,0.798961258682885
+RNd15,React pre CD8depl; Seq pre and post,2566,Post,Primary,0.766303186245807
+RNd15,React pre CD8depl; Seq pre and post,2541,Post,Primary,0.802135861857488
+RNd15,React pre CD8depl; Seq pre and post,5185,Post,Primary,0.798961258682885
+RNd15,React pre CD8depl; Seq pre and post,461,Post,Primary,0.717637381614327
+RNd15,React pre CD8depl; Seq pre and post,2447,Post,Primary,0.746117864107207
+RNd15,React pre CD8depl; Seq pre and post,7447,Post,Primary,0.725350147571774
+RNd15,React pre CD8depl; Seq pre and post,252,Post,Primary,0.772985282706909
+RNd15,React pre CD8depl; Seq pre and post,780,Post,Primary,0.887850147571773
+RNd15,React pre CD8depl; Seq pre and post,4126,Post,Primary,0.739412647571773
+RNd15,React pre CD8depl; Seq pre and post,2766,Post,Primary,0.789810931885499
+RNd15,React pre CD8depl; Seq pre and post,7327,Post,Primary,0.5
+RNd15,React pre CD8depl; Seq pre and post,895,Post,Primary,0.66204369595887
+RNd15,React pre CD8depl; Seq pre and post,1080,Post,Primary,0.6
+RNd15,React pre CD8depl; Seq pre and post,714,Post,Never,NaN
+RRf12,React post CD8depl,864,Post,Late ATI-1,0.551340271877655
+RRf12,React post CD8depl,123,Post,Late ATI-1,0.264346244007715
+RRf12,React post CD8depl,3481,Post,Primary,0.803122227735426
+RRf12,React post CD8depl,771,Post,Primary,0.790423815037014
+RRf12,React post CD8depl,90,Post,Primary,0.873683174995784
+RRf12,React post CD8depl,419,Post,Primary,0.316228474784748
+RRf12,React post CD8depl,683,Post,Primary,0.5
+RRf12,React post CD8depl,3524,Post,Never,NaN
+RRf12,React post CD8depl,1125,Post,Never,NaN
+RUh14,React pre CD8depl; Seq pre and post,510,Pre,Late ATI-1,0.0253360062391528
+RUh14,React pre CD8depl; Seq pre and post,771,Pre,Late ATI-1,0.0251762224914212
+RUh14,React pre CD8depl; Seq pre and post,10,Pre,Late ATI-1,0.0217391304347826
+RUh14,React pre CD8depl; Seq pre and post,486,Pre,Late ATI-1,0.0320041727229862
+RUh14,React pre CD8depl; Seq pre and post,2143,Pre,Late ATI-1,0.012987012987013
+RUh14,React pre CD8depl; Seq pre and post,415,Pre,Late ATI-1,0.0632411067193676
+RUh14,React pre CD8depl; Seq pre and post,4824,Pre,Late ATI-1,0.0188679245283019
+RUh14,React pre CD8depl; Seq pre and post,3002,Pre,Primary,0.761869212952968
+RUh14,React pre CD8depl; Seq pre and post,58,Pre,Primary,0.788559447155354
+RUh14,React pre CD8depl; Seq pre and post,5501,Pre,Late ATI-1,0.0205159305156911
+RUh14,React pre CD8depl; Seq pre and post,2663,Pre,Primary,0.776922976393828
+RUh14,React pre CD8depl; Seq pre and post,1208,Pre,Late ATI-1,0
+RUh14,React pre CD8depl; Seq pre and post,3193,Pre,Late ATI-1,0.155844155844156
+RUh14,React pre CD8depl; Seq pre and post,461,Pre,Late ATI-1,0
+RUh14,React pre CD8depl; Seq pre and post,596,Pre,Late ATI-1,0
+RUh14,React pre CD8depl; Seq pre and post,419,Post,Primary,0.872751979886864
+RUh14,React pre CD8depl; Seq pre and post,90,Post,Never,NaN
+RUh14,React pre CD8depl; Seq pre and post,2852,Post,Never,NaN
+RYk16,React pre CD8depl; Seq pre and post,562,Pre,Late ATI-1,0.0037593984962406
+RYk16,React pre CD8depl; Seq pre and post,1174,Pre,Late ATI-1,0.0133165898905707
+RYk16,React pre CD8depl; Seq pre and post,1419,Pre,Late ATI-1,0.0303030303030303
+RYk16,React pre CD8depl; Seq pre and post,3524,Pre,Late ATI-1,0.010230080847627
+RYk16,React pre CD8depl; Seq pre and post,5364,Pre,Late ATI-1,0.0218446601941748
+RYk16,React pre CD8depl; Seq pre and post,380,Pre,Late ATI-1,0
+RYk16,React pre CD8depl; Seq pre and post,2991,Pre,Primary,0.846153846153846
+RYk16,React pre CD8depl; Seq pre and post,2055,Pre,Primary,0.885437159510839
+RYk16,React pre CD8depl; Seq pre and post,243,Pre,Late ATI-1,0
+RYk16,React pre CD8depl; Seq pre and post,475,Pre,Primary,0.5
+RYk16,React pre CD8depl; Seq pre and post,864,Pre,Primary,0.777777777777778
+RYk16,React pre CD8depl; Seq pre and post,2852,Pre,Never,NaN
+RYk16,React pre CD8depl; Seq pre and post,1581,Pre,Never,NaN
+RYk16,React pre CD8depl; Seq pre and post,3740,Pre,Never,NaN
+RYk16,React pre CD8depl; Seq pre and post,47,Pre,Never,NaN
+RYk16,React pre CD8depl; Seq pre and post,4086,Pre,Never,NaN
+RYk16,React pre CD8depl; Seq pre and post,195,Pre,Never,NaN
+RYk16,React pre CD8depl; Seq pre and post,683,Post,Late ATI-1,0
+RYk16,React pre CD8depl; Seq pre and post,90,Post,Never,NaN
+RYm15,React pre CD8depl; Seq pre and post,1001,Pre,Late ATI-1,0.0270546236914731
+RYm15,React pre CD8depl; Seq pre and post,195,Pre,Never,NaN
+RYm15,React pre CD8depl; Seq pre and post,340,Post,Primary,0.728932492974
+RYm15,React pre CD8depl; Seq pre and post,4780,Post,Primary,0.73657513210721
+RYm15,React pre CD8depl; Seq pre and post,191,Post,Primary,0.747524184182657
+RYm15,React pre CD8depl; Seq pre and post,3391,Post,Primary,0.74255180849205
+RYm15,React pre CD8depl; Seq pre and post,864,Post,Primary,0.506823692414271
+RYm15,React pre CD8depl; Seq pre and post,123,Post,Late ATI-1,0.3
+RYm15,React pre CD8depl; Seq pre and post,419,Post,Late ATI-1,0
+RYm15,React pre CD8depl; Seq pre and post,2852,Post,Late ATI-1,0.333333333333333
+RYm15,React pre CD8depl; Seq pre and post,3524,Post,Late ATI-1,0
+RYm15,React pre CD8depl; Seq pre and post,90,Post,Never,NaN
+RYm15,React pre CD8depl; Seq pre and post,1581,Post,Never,NaN
+RYm15,React pre CD8depl; Seq pre and post,2055,Post,Never,NaN
+RYm15,React pre CD8depl; Seq pre and post,3347,Post,Never,NaN
+RYm15,React pre CD8depl; Seq pre and post,47,Post,Never,NaN
+RYm15,React pre CD8depl; Seq pre and post,475,Post,Never,NaN
+RYm15,React pre CD8depl; Seq pre and post,1413,Post,Never,NaN
