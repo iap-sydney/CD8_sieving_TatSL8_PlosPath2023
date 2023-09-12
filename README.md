@@ -4,7 +4,7 @@ Data:
 -Penn SIV barcode data summary.SD_20230208.xlsx: contains high throughput sequencing results for barcode and Tat-SL8 regions
 -Copy of 1st Betts FTY study 1 VL_day106 post MT807R1_SSD_necropsy_dpi_added_210426.xlsx: contains the viral load data for each animal.
 -3-9-22 TL8-PBMC.csv: contains data on total count and percent of CD8s specific for Tat-TL8 (same response as SL8).
--3-9-22 TL8-PBMC-LNMC_SSD_names_corrected.xlsx: same as "3-9-33 TL8-PBMC.csv" but also with a sheet for LNMC. xlsx can be read by MATLAB better than R.
+-3-9-22 TL8-PBMC_SSD_names_corrected.xlsx: same as "3-9-33 TL8-PBMC.csv" but also with a sheet for LNMC. xlsx can be read by MATLAB better than R.
 -Immonen_etal_2020_SL8_evolution/Epitopes.xlsx: Data from Immonen et al. 2020 on SL8 epitope fractions over time.
 -Allen_etal_2000/Allen_etal_2000_SL8_decay_data.csv: Data from Allen et al. 2000 on WT SL8 epitope fractions over time.
 -d190-d373_Sheet_d190.csv and d190-d373_Sheet_d373.csv: contains phenotype breakdown of TL8/SL8-specific CD8s from samples taken at approximately day 190 and 373, respectively.

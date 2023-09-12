@@ -40,7 +40,7 @@ d373_percentMem_data_raw <- read_excel("Data/d190-d373_SSD_names_corrected.xlsx"
 #read.csv
 
 #Importing data on percent of total CD8s
-percentTot_data_raw <- read_excel("Data/3-9-22 TL8-PBMC-LNMC_SSD_names_corrected.xlsx", 
+percentTot_data_raw <- read_excel("Data/3-9-22 TL8-PBMC_SSD_names_corrected.xlsx", 
                                   .name_repair =  "universal")
 
 

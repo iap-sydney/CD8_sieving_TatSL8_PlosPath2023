@@ -634,18 +634,13 @@ TL8CD8_summary_table = table;
 TL8CD8_summary_names = {'animal', 'Treatment', 'PBMC_day14_TL8', 'PBMC_day14_day',...
     'PBMC_ART1_TL8', 'PBMC_ART1_day', 'PBMC_ATI1_start_TL8', 'PBMC_ATI1_start_day', ...
     'PBMC_ATI1_early_TL8', 'PBMC_ATI1_early_day', 'PBMC_ATI1_end_TL8', 'PBMC_ATI1_end_day',...
-    'PBMC_ART2_early_TL8', 'PBMC_ART2_early_day', 'PBMC_ART2_end_TL8', 'PBMC_ART2_end_day', ...
-    'LNMC_ART1_TL8', 'LNMC_ART1_day', 'LNMC_ATI1_start_TL8', 'LNMC_ATI1_start_day',...
-    'LNMC_ATI1_TL8', 'LNMC_ATI1_day', 'LNMC_ART2_early_TL8', 'LNMC_ART2_early_day'};
+    'PBMC_ART2_early_TL8', 'PBMC_ART2_early_day', 'PBMC_ART2_end_TL8', 'PBMC_ART2_end_day'};
 TL8CD8_summary_types = {'cellstr', 'cellstr', 'double', 'double', 'double', 'double',...
-     'double', 'double', 'double', 'double', 'double', 'double', 'double', 'double', ...
      'double', 'double', 'double', 'double', 'double', 'double', 'double', 'double', ...
      'double', 'double'};
 
-PBMC_TL8_totCD8_data = readtable('Data/3-9-22 TL8-PBMC-LNMC_SSD_names_corrected.xlsx', ...
+PBMC_TL8_totCD8_data = readtable('Data/3-9-22 TL8-PBMC_SSD_names_corrected.xlsx', ...
     'Sheet', 'TL8 - PBMC', 'Range', 'B3');
-LNMC_TL8_totCD8_data = readtable('Data/3-9-22 TL8-PBMC-LNMC_SSD_names_corrected.xlsx', ...
-    'Sheet', 'TL8 - LNMC', 'Range', 'B3');
 
 for ii = 1:Num_animals
     TL8CD8_summary_table_it = table('Size', [1, length(TL8CD8_summary_names)],...
@@ -695,52 +690,6 @@ for ii = 1:Num_animals
     ART2_end_ind_it = find((PBMC_TL8_totCD8_data_it.DaysP_i_ >=370)&(PBMC_TL8_totCD8_data_it.DaysP_i_ <= 375));
     TL8CD8_summary_table_it.PBMC_ART2_end_day = PBMC_TL8_totCD8_data_it.DaysP_i_(ART2_end_ind_it);
     TL8CD8_summary_table_it.PBMC_ART2_end_TL8 = PBMC_TL8_totCD8_data_it.x_TL8_TotalCD8(ART2_end_ind_it);
-
-
-    %LNMC data
-    LNMC_TL8_totCD8_data_it = LNMC_TL8_totCD8_data(strcmp(LNMC_TL8_totCD8_data.MonkeyID,...
-                    VL_data_it.animal_ID),:);
-
-    ART1_ind_it = find((LNMC_TL8_totCD8_data_it.DaysP_i_ >=185)&(LNMC_TL8_totCD8_data_it.DaysP_i_ <=195));
-    if (~isempty(ART1_ind_it))
-        TL8CD8_summary_table_it.LNMC_ART1_day = LNMC_TL8_totCD8_data_it.DaysP_i_(ART1_ind_it);
-        TL8CD8_summary_table_it.LNMC_ART1_TL8 = LNMC_TL8_totCD8_data_it.x_TL8_TotalCD8(ART1_ind_it);
-    else
-        TL8CD8_summary_table_it.LNMC_ART1_day = nan;
-        TL8CD8_summary_table_it.LNMC_ART1_TL8 = nan;
-    end
-
-
-    ATI1_start_ind_it = find((LNMC_TL8_totCD8_data_it.DaysP_i_ >=215)&(LNMC_TL8_totCD8_data_it.DaysP_i_ <=221));
-    if (~isempty(ATI1_start_ind_it))
-        TL8CD8_summary_table_it.LNMC_ATI1_start_day = LNMC_TL8_totCD8_data_it.DaysP_i_(ATI1_start_ind_it);
-        TL8CD8_summary_table_it.LNMC_ATI1_start_TL8 = LNMC_TL8_totCD8_data_it.x_TL8_TotalCD8(ATI1_start_ind_it);
-    else
-
-        TL8CD8_summary_table_it.LNMC_ATI1_start_day = nan;
-        TL8CD8_summary_table_it.LNMC_ATI1_start_TL8 = nan;
-    end
-
-
-    ATI1_ind_it = find((LNMC_TL8_totCD8_data_it.DaysP_i_ >=222)&(LNMC_TL8_totCD8_data_it.DaysP_i_ <=282));
-    if (~isempty(ATI1_ind_it))
-        TL8CD8_summary_table_it.LNMC_ATI1_day = LNMC_TL8_totCD8_data_it.DaysP_i_(ATI1_ind_it);
-        TL8CD8_summary_table_it.LNMC_ATI1_TL8 = LNMC_TL8_totCD8_data_it.x_TL8_TotalCD8(ATI1_ind_it);
-    else
-
-        TL8CD8_summary_table_it.LNMC_ATI1_day = nan;
-        TL8CD8_summary_table_it.LNMC_ATI1_TL8 = nan;
-    end
-
-
-    ART2_early_ind_it = find((LNMC_TL8_totCD8_data_it.DaysP_i_ >=305)&(LNMC_TL8_totCD8_data_it.DaysP_i_ <=315));
-    if (~isempty(ART2_early_ind_it))
-        TL8CD8_summary_table_it.LNMC_ART2_early_day = LNMC_TL8_totCD8_data_it.DaysP_i_(ART2_early_ind_it);
-        TL8CD8_summary_table_it.LNMC_ART2_early_TL8 = LNMC_TL8_totCD8_data_it.x_TL8_TotalCD8(ART2_early_ind_it);
-    else
-        TL8CD8_summary_table_it.LNMC_ART2_early_day = nan;
-        TL8CD8_summary_table_it.LNMC_ART2_early_TL8 = nan;
-    end
     
     %% adding to table
     if (ii == 1)
