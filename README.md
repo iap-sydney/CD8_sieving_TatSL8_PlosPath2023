@@ -1,4 +1,14 @@
-# TatSL8_CD8_pressure_postATI_Project
+# CD8_sieving_TatSL8_PlosPath2023
+
+To generate the figures in the manuscript, run the following codes in order. Further details of codes and what they produce are included below.
+- Data_importation/save_UPenn_FTY_bcode_data_210602.m
+- SL8_WT_timecourse_analysis_R_export_220318.m
+- WT_timecourse_plots.R
+- Barcode_1ntMutation_breakdown_all_times_code_221110.m
+- SL8_Variant_timecourse_220812.R
+- VL_and_WT_dynamics_at_CD8depletion_230120.m
+- CD8_depletion_barcode_analysis_210831.R
+- Summary_statistics_220222.m
  
 Data:
 - Penn SIV barcode data summary.SD_20230208.xlsx: contains high throughput sequencing results for barcode and Tat-SL8 regions
