@@ -91,7 +91,7 @@ background_alpha = 0.4
 save_manuscript_fig_flag = 1; #0 = don't save manuscript figs. 1 = save
 #manuscript figs
 
-symbol_size = 2.5
+symbol_size = 1.75
 text_size = 10
 
 WT_data_from_MATLAB <- read.csv("WT_timecourse_data_for_R.csv")
