@@ -276,7 +276,7 @@ TotCD8_percent_TL8_PBMC_dynamics = ggplot(data = totCD8_percent_TL8_PBMC_df,
            fill = CD8depl_annotation, color = NA, alpha = background_alpha)+
   geom_line() + geom_point(shape = 21, color = "black", size = symbol_size) + TreatScale_plotPalette+
   scale_x_continuous(breaks = dpi_ticks, labels = dpi_labels) + 
-  labs(y = "SL8 specific CD8\nT cells (%)", 
+  labs(y = "SL8-specific CD8\nT cells (%)", 
        x = "Days Post Infection") + theme_classic() +
   theme(title = element_text(size = text_size), 
         axis.text = element_text(size = text_size))
